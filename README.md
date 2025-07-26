@@ -12,7 +12,6 @@ Atualmente estou cursando Ciência da Computação e mergulhando de cabeça no u
 
 Também venho praticando HTML e CSS com pequenos projetos próprios, como blogs e páginas temáticas, sempre buscando aprender mais sobre estrutura, semântica e design responsivo.
 
-Futuro projeto: sistema web para controle logístico, feito do zero com foco em organização, simplicidade e funcionalidade.
 
 ---
 
