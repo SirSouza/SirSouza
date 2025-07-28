@@ -1,4 +1,4 @@
-# Ewerton Souza
+# Ewerton de Souza
 
 🎓 Estudante de Ciência da Computação  
 📚 Em constante aprendizado — atualmente aprendeno HTML, CSS e fundamentos da programação
