@@ -26,8 +26,6 @@ Também venho praticando HTML e CSS com pequenos projetos próprios, como blogs 
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
-
 <div align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SirSouza&show_icons=true&theme=tokyonight" />
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SirSouza&layout=compact&theme=tokyonight" />
