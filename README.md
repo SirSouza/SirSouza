@@ -28,16 +28,11 @@ Também venho praticando HTML e CSS com pequenos projetos próprios, como blogs 
 
 ## 📊 GitHub Stats
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=SirSouza&show_icons=true&theme=tokyonight" alt="Ewerton's GitHub Stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SirSouza&layout=compact&theme=tokyonight" alt="Most Used Languages" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SirSouza&show_icons=true&theme=tokyonight" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SirSouza&layout=compact&theme=tokyonight" />
+</div>
+
 
 
 ---
