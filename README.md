@@ -1,8 +1,7 @@
 # Ewerton Souza
 
 🎓 Estudante de Ciência da Computação  
-💻 Entusiasta de Linux, open source e desenvolvimento web  
-📚 Em constante aprendizado — atualmente focado em HTML, CSS e fundamentos da programação
+📚 Em constante aprendizado — atualmente aprendeno HTML, CSS e fundamentos da programação
 
 ---
 
@@ -23,6 +22,21 @@ Também venho praticando HTML e CSS com pequenos projetos próprios, como blogs 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white)
 
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SirSouza&show_icons=true&theme=tokyonight" alt="Ewerton's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SirSouza&layout=compact&theme=tokyonight" alt="Most Used Languages" />
+</div>
+
+---
+
+## 🌐 Projeto em destaque
+
+🔗 [**Anorak System Log**](https://sirsouza.github.io/anorak-system-log)  
+Um diário digital com visual retrô inspirado em terminais antigos, desenvolvido com HTML + CSS puro. Ainda em Alpha, mas recebendo upgrades constantes conforme avanço nos estudos.
 
 ---
 
