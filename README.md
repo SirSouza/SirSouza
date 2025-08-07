@@ -1,15 +1,16 @@
-# Ewerton de Souza
+🎓 Futuro dev de Análise e Desenvolvimento de Sistemas
+📟 Aprendendo  — HTML, CSS, JavaScript e Shell Script
+🌐 Sonhando alto: quero contribuir de verdade com o open source
 
-🎓 Estudante de Ciência da Computação  
-📚 Em constante aprendizado — atualmente aprendeno HTML, CSS e fundamentos da programação
+Sobre mim
 
----
+E aí! Eu sou Ewerton — dev em formação, curioso por natureza e apaixonado por tudo que envolve tecnologia.
 
-## Sobre mim
+Tô me preparando pra começar o curso de Análise e Desenvolvimento de Sistemas, mas já estou metendo a cara no desenvolvimento full stack. No momento, tô praticando HTML, CSS e JavaScript, criando blogs, páginas temáticas e experimentando bastante com responsividade e boas práticas.
 
-Atualmente estou cursando Ciência da Computação e mergulhando de cabeça no universo do desenvolvimento full stack. Gosto de entender o que acontece por trás dos sistemas, e por isso tenho explorado bastante o Arch Linux, o terminal e a personalização de ambientes de desenvolvimento.
+Também comecei a explorar o mundo dos scripts com Shell Script — gosto de entender como as coisas funcionam debaixo dos panos.
 
-Também venho praticando HTML e CSS com pequenos projetos próprios, como blogs e páginas temáticas, sempre buscando aprender mais sobre estrutura, semântica e design responsivo.
+Meu objetivo? Trabalhar com desenvolvimento, crescer como dev e, claro, deixar minha marca no universo open source. Se um dia eu puder retribuir tudo que aprendi com a comunidade, já vou me sentir realizado.
 
 
 ---
@@ -20,7 +21,7 @@ Também venho praticando HTML e CSS com pequenos projetos próprios, como blogs 
 ![CSS](https://img.shields.io/badge/CSS3-%231572B6.svg?&style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white)
+
 
 ---
 
