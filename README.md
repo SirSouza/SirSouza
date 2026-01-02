@@ -50,8 +50,7 @@ Meu objetivo? Trabalhar com desenvolvimento, crescer como dev e, claro, deixar m
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SirSouza&show_icons=true&theme=tokyonight" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SirSouza&layout=compact&theme=tokyonight" />
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SirSouza)](https://github.com/SirSouza/github-readme-stats)
 </div>
 
 
