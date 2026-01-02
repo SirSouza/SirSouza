@@ -49,9 +49,11 @@ Meu objetivo? Trabalhar com desenvolvimento, crescer como dev e, claro, deixar m
 
 ## 📊 GitHub Stats
 
-<div align="center">
- ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=SirSouza)
-</div>
+<img 
+  src="https://github-readme-stats-fast.vercel.app/api?username=SirSouza&show_icons=true&theme=tokyonight"
+  alt="GitHub Stats"
+/>
+
 
 
 
