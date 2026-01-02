@@ -50,7 +50,7 @@ Meu objetivo? Trabalhar com desenvolvimento, crescer como dev e, claro, deixar m
 ## 📊 GitHub Stats
 
 <div align="center">
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SirSouza)](https://github.com/SirSouza/github-readme-stats)
+ ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=SirSouza)
 </div>
 
 
