@@ -49,10 +49,17 @@ Meu objetivo? Trabalhar com desenvolvimento, crescer como dev e, claro, deixar m
 
 ## 📊 GitHub Stats
 
-<img 
-  src="https://github-readme-stats-fast.vercel.app/api?username=SirSouza&show_icons=true&theme=tokyonight"
-  alt="GitHub Stats"
-/>
+<div style="display:flex; gap:16px; flex-wrap:wrap;">
+  <img
+    src="https://github-readme-stats-fast.vercel.app/api?username=SirSouza&show_icons=true&theme=tokyonight"
+    height="180"
+  />
+  <img
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=SirSouza&layout=compact&theme=tokyonight"
+    height="180"
+  />
+</div>
+
 
 
 
