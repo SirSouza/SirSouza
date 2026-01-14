@@ -1,68 +1,105 @@
-<h2 align="center">E aí! Eu sou Ewerton — dev em formação, curioso por natureza e apaixonado por tudo que envolve tecnologia.</h2>
+<div align="center">
+  <img src="banner.jpeg" alt="Banner" width="100%">
+</div>
 
-Sobre mim
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=800&lines=E+a%C3%AD!+%F0%9F%91%8B+Eu+sou+Ewerton;Dev+em+forma%C3%A7%C3%A3o+%F0%9F%9A%80;Curioso+por+natureza+%F0%9F%94%8D;Apaixonado+por+tecnologia+%F0%9F%92%BB)](https://git.io/typing-svg)
 
-Tô me preparando pra começar o curso de Análise e Desenvolvimento de Sistemas, mas já estou metendo a cara no desenvolvimento full stack. No momento, tô praticando HTML, CSS e JavaScript, criando blogs, páginas temáticas e experimentando bastante com responsividade e boas práticas.
+</div>
 
-Também comecei a explorar o mundo dos scripts com Shell Script — gosto de entender como as coisas funcionam debaixo dos panos.
+---
 
-Meu objetivo? Trabalhar com desenvolvimento, crescer como dev e, claro, deixar minha marca no universo open source. Se um dia eu puder retribuir tudo que aprendi com a comunidade, já vou me sentir realizado.
+## 🎯 Sobre mim
+```JavaScript
+const ewerton = {
+  localizacao: "Brasil 🇧🇷",
+  stack: ["JavaScript", "TypeScript", "Python", "Rust", "Shell Script"],
+  ferramentas: ["Next.js", "Tailwind CSS", "Linux"],
+  estudando: [
+    "Desenvolvimento Full Stack",
+    "Shell Scripting",
+    "Rust & Python"
+  ],
+  focoAtual: "Estudar e conquistar minha primeira vaga como dev 🚀",
+  objetivo: "Contribuir com open source, evoluir tecnicamente e crescer como desenvolvedor 🌱",
+  hobbies: [
+    "Leitura 📚",
+    "Ouvir música 🎧",
+    "Estudar e aprender coisas novas constantemente 🧠"
+  ]
+};
+```
+
+Tô me preparando pra começar o curso de **Análise e Desenvolvimento de Sistemas**, mas já estou metendo a cara no desenvolvimento **full stack**. No momento, praticando HTML, CSS e JavaScript, criando blogs, páginas temáticas e experimentando bastante com **responsividade** e **boas práticas**.
+
+Também comecei a explorar o mundo dos scripts com **Shell Script** — gosto de entender como as coisas funcionam debaixo dos panos! 🐧
+
+> 💡 **Meu objetivo?** Trabalhar com desenvolvimento, crescer como dev e deixar minha marca no universo **open source**. Se um dia eu puder retribuir tudo que aprendi com a comunidade, já vou me sentir realizado.
+
+---
+
+## 🛠️ Stack Tecnológica
+
+<div align="center">
+
+### 🚀 Frontend & Frameworks 
+#### Em evolução
+<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,html,css,javascript,typescript" alt="Frontend Stack" />
+
+### 🔧 Ferramentas & Ambiente
+<img src="https://skillicons.dev/icons?i=linux,git,vscode,bash,nix" alt="Tools" />
+
+### 📚 Newbe
+<img src="https://skillicons.dev/icons?i=rust,python" alt="Learning" />
+
+</div>
+
+---
+
+## 📊 Estatísticas GitHub
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SirSouza&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SirSouza&layout=compact&langs_count=8&theme=tokyonight&border_radius=10"/>
+</div>
+
 
 
 ---
 
-## Tecnologias (Rust e Python em aprendizado inicial)
+
+## 🌐 Conecte-se Comigo
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60" alt="linux logo"  />
-   <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo"  />
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devanorak/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/devanorak)
+[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/sirsouza)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SirSouza)
+
 </div>
 
-
-<h3>Redes Sociais</h3>
+---
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/devanorak/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://x.com/devanorak" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  </a>
-  <a href="https://dev.to/sirsouza" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
-  </a>
+  
+### 💬 Frase Aleatória de Dev
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
 </div>
 
-## 📊 GitHub Stats
-<div style="display:flex; gap:16px; flex-wrap:wrap;">
-  <img
-    src="https://github-readme-stats-fast.vercel.app/api?username=SirSouza&show_icons=true&theme=tokyonight"
-    height="190"
-  />
-  <img
-    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=SirSouza&layout=compact&theme=tokyonight"
-    height="190"
-  />
+---
+
+<div align="center">
+  
+**"Code is like humor. When you have to explain it, it's bad."** – Cory House
+
+![](https://komarev.com/ghpvc/?username=SirSouza&color=blueviolet&style=flat-square&label=Visitantes)
+
 </div>
 
+---
 
-
-
-
-
-
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
