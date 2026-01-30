@@ -94,7 +94,7 @@ Também comecei a explorar o mundo dos scripts com **Shell Script** — gosto de
 
 <div align="center">
   
-**"Code is like humor. When you have to explain it, it's bad."** – Cory House
+**"Great code comes from experience. Experience comes from not-so-great code"**
 
 ![](https://komarev.com/ghpvc/?username=SirSouza&color=blueviolet&style=flat-square&label=Visitantes)
 
