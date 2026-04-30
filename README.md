@@ -14,43 +14,32 @@
 ```JavaScript
 const ewerton = {
   localizacao: "Brasil 🇧🇷",
-  stack: ["JavaScript", "TypeScript", "Python", "Rust", "Shell Script"],
-  ferramentas: ["Next.js", "Tailwind CSS", "Linux"],
-  estudando: [
-    "Desenvolvimento Full Stack",
-    "Shell Scripting",
-    "Rust & Python"
-  ],
-  focoAtual: "Estudar e conquistar minha primeira vaga como dev 🚀",
-  objetivo: "Contribuir com open source, evoluir tecnicamente e crescer como desenvolvedor 🌱",
-  hobbies: [
-    "Leitura 📚",
-    "Ouvir música 🎧",
-    "Estudar e aprender coisas novas constantemente 🧠"
-  ]
+  praticando: ["C", "JavaScript", "TypeScript"],
+  aprendendo: ["Rust", "Python", "Fundamentos de CC"],
+  ambiente: ["NixOS", "Helix", "VSCode", "Git", "Terminal"],
+  focoAtual: "Entender computadores de baixo pra cima — sistemas, memória, linguagens próximas ao metal",
+  objetivo: "Construir software sólido, contribuir com open source e entender computadores a fundo.",
+  hobbies: ["Leitura", "Música", "Destrinchar como as coisas funcionam"]
 };
 ```
 
-Tô me preparando pra começar o curso de **Análise e Desenvolvimento de Sistemas**, mas já estou metendo a cara no desenvolvimento **full stack**. No momento, praticando HTML, CSS e JavaScript, criando blogs, páginas temáticas e experimentando bastante com **responsividade** e **boas práticas**.
-
-Também comecei a explorar o mundo dos scripts com **Shell Script** — gosto de entender como as coisas funcionam debaixo dos panos! 🐧
-
-> 💡 **Meu objetivo?** Trabalhar com desenvolvimento, crescer como dev e deixar minha marca no universo **open source**. Se um dia eu puder retribuir tudo que aprendi com a comunidade, já vou me sentir realizado.
+Calouro em Ciência da Computação com a mão na massa — projetos em C, TypeScript e JS, vivendo no terminal com NixOS e Helix.
+Meu interesse vai além do front: quero entender memória, compiladores, como o hardware e o SO conversam. Rust e C são meu caminho nessa direção.
 
 ---
 
-## 🛠️ Stack Tecnológica
+## 🛠️ Tecnologias
 
 <div align="center">
 
-### 🚀 Frontend & Frameworks 
+### 🚀 Praticando
 #### Em evolução
-<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,html,css,javascript,typescript" alt="Frontend Stack" />
+<img src="https://skillicons.dev/icons?i=tailwind,html,css,javascript,typescript, c" alt="Frontend Stack" />
 
 ### 🔧 Ferramentas & Ambiente
 <img src="https://skillicons.dev/icons?i=linux,git,vscode,bash,nix" alt="Tools" />
 
-### 📚 Newbe
+### 📚 Aprendendo
 <img src="https://skillicons.dev/icons?i=rust,python" alt="Learning" />
 
 </div>
