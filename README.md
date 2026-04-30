@@ -34,7 +34,7 @@ Meu interesse vai além do front: quero entender memória, compiladores, como o 
 
 ### 🚀 Praticando
 #### Em evolução
-<img src="https://skillicons.dev/icons?i=tailwind,html,css,javascript,typescript, c" alt="Frontend Stack" />
+<img src="https://skillicons.dev/icons?i=tailwind,html,css,javascript,typescript,c" alt="Frontend Stack" />
 
 ### 🔧 Ferramentas & Ambiente
 <img src="https://skillicons.dev/icons?i=linux,git,vscode,bash,nix" alt="Tools" />
