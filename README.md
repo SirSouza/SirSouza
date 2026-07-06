@@ -15,7 +15,7 @@
 const ewerton = {
   localizacao: "Brasil 🇧🇷",
   praticando: ["C", "C++", "Rust"],
-  aprendendo: ["Fundamentos de CC", Lógica de programação],
+  aprendendo: ["Fundamentos de CC", "Lógica de programação"],
   ambiente: ["Linux", "Helix", "Zed", "Git", "Terminal"],
   focoAtual: "Entender computadores de baixo pra cima — sistemas, memória, linguagens próximas ao metal",
   objetivo: "Construir software sólido, contribuir com open source e entender computadores a fundo.",
@@ -34,13 +34,14 @@ Meu interesse vai além do front: quero entender memória, compiladores, como o 
 
 ### 🚀 Praticando
 #### Em evolução
+<div align="center">
 <img src="https://skillicons.dev/icons?i=c,javascript," alt="Frontend Stack" />
-
+</div>
 ### 🔧 Ferramentas & Ambiente
 <img src="https://skillicons.dev/icons?i=linux,git,vscode,bash,arch" alt="Tools" />
 
 ### 📚 Aprendendo
-<img src="https://skillicons.dev/icons?i=rust,c++" alt="Learning" />
+<img src="https://skillicons.dev/icons?i=rust,cpp" alt="Learning" />
 
 </div>
 
