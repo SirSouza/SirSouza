@@ -12,21 +12,34 @@
 
 ## 🎯 Sobre mim
 
-```JavaScript
-const ewerton = {
-  localizacao: "Brasil 🇧🇷",
-  praticando: ["C", "C++", "Rust"],
-  aprendendo: ["Fundamentos de CC", "Lógica de programação"],
-  ambiente: ["Linux", "Helix", "Zed", "Git", "Terminal"],
-  focoAtual: "Entender computadores de baixo pra cima — sistemas, memória, linguagens próximas ao metal",
-  objetivo: "Construir software sólido, contribuir com open source e entender computadores a fundo.",
-  hobbies: ["Leitura", "Música", "Destrinchar como as coisas funcionam"]
+```c
+typedef struct {
+    const char *localizacao;
+    const char *cursando;
+    const char *praticando[3];
+    const char *estudando[3];
+    const char *ambiente[4];
+    const char *foco_atual;
+    const char *objetivo;
+} Perfil;
+
+Perfil ewerton = {
+    .localizacao   = "Brasil",
+    .cursando      = "Ciencia da Computacao (EAD)",
+    .praticando    = {"C", "C++", "Rust"},
+    .estudando     = {"Redes", "Sistemas Operacionais", "Fundamentos de CC"},
+    .ambiente      = {"Arch Linux", "Helix", "Terminal"},
+    .foco_atual    = "Sysadmin do proprio sistema — boot, kernel, low-level",
+    .objetivo      = "Entender computadores de baixo pra cima"
 };
 ```
 
-Calouro em Ciência da Computação, estudando por baixo pra cima: redes, sistemas operacionais, memória, como o hardware e o SO conversam. Vivo no terminal — Arch Linux, systemd-boot, Helix.
+Calouro em Ciência da Computação, interessado em compreender como os computadores funcionam de verdade — de redes e sistemas operacionais até memória e a interação entre hardware e software.
 
-Sysadmin de mim mesmo: configuro, quebro e conserto meu próprio ambiente Linux como forma de aprender de verdade. C e Rust são o caminho pra entender computadores a fundo, sem atalho de abstração.
+Aprendo de forma prática, explorando, testando e resolvendo problemas. Busco entender os fundamentos, valorizando consistência e profundidade no aprendizado.
+
+Tenho interesse em C e Rust como ferramentas para explorar sistemas em baixo nível e construir uma base sólida.
+
 
 ---
 
