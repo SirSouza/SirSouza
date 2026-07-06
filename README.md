@@ -14,9 +14,9 @@
 ```JavaScript
 const ewerton = {
   localizacao: "Brasil 🇧🇷",
-  praticando: ["C", "JavaScript", "TypeScript"],
-  aprendendo: ["Rust", "Python", "Fundamentos de CC"],
-  ambiente: ["NixOS", "Helix", "VSCode", "Git", "Terminal"],
+  praticando: ["C", "C++", "Rust"],
+  aprendendo: ["Fundamentos de CC", Lógica de programação],
+  ambiente: ["Linux", "Helix", "Zed", "Git", "Terminal"],
   focoAtual: "Entender computadores de baixo pra cima — sistemas, memória, linguagens próximas ao metal",
   objetivo: "Construir software sólido, contribuir com open source e entender computadores a fundo.",
   hobbies: ["Leitura", "Música", "Destrinchar como as coisas funcionam"]
@@ -34,13 +34,13 @@ Meu interesse vai além do front: quero entender memória, compiladores, como o 
 
 ### 🚀 Praticando
 #### Em evolução
-<img src="https://skillicons.dev/icons?i=tailwind,html,css,javascript,typescript,c" alt="Frontend Stack" />
+<img src="https://skillicons.dev/icons?i=c,javascript," alt="Frontend Stack" />
 
 ### 🔧 Ferramentas & Ambiente
-<img src="https://skillicons.dev/icons?i=linux,git,vscode,bash,nix" alt="Tools" />
+<img src="https://skillicons.dev/icons?i=linux,git,vscode,bash,arch" alt="Tools" />
 
 ### 📚 Aprendendo
-<img src="https://skillicons.dev/icons?i=rust,python" alt="Learning" />
+<img src="https://skillicons.dev/icons?i=rust,c++" alt="Learning" />
 
 </div>
 
