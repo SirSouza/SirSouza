@@ -33,12 +33,15 @@ Meu interesse vai além do front: quero entender memória, compiladores, como o 
 <div align="center">
 
 ### 🚀 Praticando
-#### Em evolução
 <div align="center">
 <img src="https://skillicons.dev/icons?i=c,javascript," alt="Frontend Stack" />
 </div>
-### 🔧 Ferramentas & Ambiente
+
+<div align="center">
+  ### 🔧 Ferramentas & Ambiente
 <img src="https://skillicons.dev/icons?i=linux,git,vscode,bash,arch" alt="Tools" />
+</div>
+
 
 ### 📚 Aprendendo
 <img src="https://skillicons.dev/icons?i=rust,cpp" alt="Learning" />
